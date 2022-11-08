@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@200&display=swap');
+
+.modal-content {
+    font-family: 'Sora', sans-serif;
+    width: 740px;
+    height: auto;
+    padding-bottom: 10px;
+}
+button.btn.btn-danger, button.btn.btn-info{
+    width: 191px;
+}
+a.btn.btn-success {
+    width: 511px;
+}
+a.btn.btn-warning {
+    width: 511px;
+    margin-top: -64px;
+    margin-left: 564px;
+}
+
+form{
+    width:100%;
+}
+#map {
+    height: 400px;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+  }
+a.btn.btn-success.novo {
+    width: 145px !important;
+}
+.thumbimage img {
+    width: 90px;
+}
+.thumbimage {
+    padding: 5px;
+    border-radius: 7px;
+    background-color: white;
+    width: 101px;
+    border: 1px solid #ccc;
+}
+.quantidade {
+    margin-top: -33px;
+    margin-left: 248px;
+    font-weight: bold;
+}
+
+.imagemDetalhe img {
+    width: 61px;
+    height: 61px;
+    border-radius: 6px;
+}
+
+.row.itensp {
+    margin: 5px;
+    padding: 5px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgb(0 0 0 / 25%);
+    border-radius: 6px;
+    width: 454px;
+}
+.dadoscliente.col-md-6 {
+    margin-left: 504px;
+    /* position: absolute; */
+    /* margin-top: -54px; */
+    border-bottom: 1px solid #80808030;
+    padding-bottom: 6px;
+    margin-bottom: 10px;
+    width: 237px;
+}
+.contato {
+    position: absolute;
+    top: 91px;
+    right: -38px;
+
+}
+.row.cartvazio img {
+    width: 247px !important;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.row.complemento {
+    margin-top: 53px;
+}
+.dropdown.statusbtn {
+    position: absolute;
+    right: 27px;
+}
+.subtitulo {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.totalpedido {
+    font-weight: bold;
+    margin-top: -4px;
+    font-size: 20px;
+    margin-left: 307px;
+}
+div#info-container {
+    margin-left: -126px;
+    text-transform: capitalize;
+}
+.titulo {
+    font-weight: bold;
+}
+.col-md-4.adicionais {
+    margin-left: 36px;
+    font-weight: bold;
+}
+.statpago {
+    background: #e5f9f6;
+    border-radius: 14px;
+    padding: 0px;
+    color: #00c9a7;
+    width: 148px;
+    font-size: 15px;
+    height: 24px;
+    margin-left: 19px;
+    margin-top: 8px;
+}
+.pednum {
+    padding: 11px;
+    font-size: 18px;
+}
+
+.stataberto {
+    background: #e5f9fb;
+    border-radius: 14px;
+    padding: 0px;
+    color: #00c9db;
+    width: 148px;
+    font-size: 15px;
+    height: 24px;
+    margin-left: 19px;
+    margin-top: 8px;
+}
+
+.statcancelado{
+
+    background: #fdedf1;
+    border-radius: 14px;
+    padding: 0px;
+    color: #ed4c78;
+    width: 148px;
+    font-size: 15px;
+    height: 24px;
+    margin-left: 19px;
+    margin-top: 8px;
+
+}
+.modal-body h4 {
+    font-weight: bold;
+    font-size: 27px;
+}
+
+.datad {
+    margin-top: -40px;
+    margin-left: 344px;
+}
+.row.pagamento img {
+    width: 90px;
+    margin-top: 25px;
+    margin-left: -93px;
+}
+.row.pagamento {
+    margin-bottom: 19px;
+    margin-left: -411px;
+    margin-top: 51px;
+}
